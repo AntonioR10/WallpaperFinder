@@ -40,7 +40,7 @@
     </a>
   </div>
   <footer class="footer">
-    <p>Powered by Pexles - Antonio R.</p>
+    <p>Powered by Pexels - Antonio R.</p>
   </footer>
 </template>
 
