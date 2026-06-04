@@ -39,6 +39,8 @@
       <i class="fa-solid fa-arrow-right"></i>
     </a>
   </div>
+  <footer class="footer">
+    <p>Powered by Pexles - Antonio R.<a href="https://github.com/AntonioR10" target="_blank" rel="noopener">GitHub</a></p>
 </template>
 
 <script setup>
