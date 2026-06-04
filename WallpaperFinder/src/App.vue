@@ -40,7 +40,8 @@
     </a>
   </div>
   <footer class="footer">
-    <p>Powered by Pexles - Antonio R.<a href="https://github.com/AntonioR10" target="_blank" rel="noopener">GitHub</a></p>
+    <p>Powered by Pexles - Antonio R.</p>
+  </footer>
 </template>
 
 <script setup>
